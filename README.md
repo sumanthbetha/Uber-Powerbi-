@@ -1,6 +1,6 @@
 Project Overview:-
 
-This project presents a dynamic Power BI dashboard built using two datasets: Trip Details and Location Information. The goal is to analyze and visualize key insights.
+This project presents a dynamic Power BI dashboard built using two datasets: Trip Details and Location Table. The goal is to analyze and visualize key insights.
 
  Datasets Used:-
  
