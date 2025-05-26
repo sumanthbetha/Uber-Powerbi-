@@ -6,30 +6,11 @@ This project presents a dynamic Power BI dashboard built using two datasets: Tri
  
 (1)Trip Details
 
-Trip ID
+Columns = 
 
-Pickup Time, Drop Off Time
+Trip ID , Pickup Time, Drop Off Time , Passenger Count , Trip Distance , PULocationID (Pickup Location) , DOLocationID (Drop-off Location) , Fare Amount , Surge Fee , Vehicle , Payment Type.
 
-Passenger Count
-
-Trip Distance
-
-PULocationID (Pickup Location)
-
-DOLocationID (Drop-off Location)
-
-Fare Amount
-
-Surge Fee
-
-Vehicle
-
-Payment Type
 
 (2)Location Table
+Columns =  LocationID , Location , City.
 
-LocationID
-
-Location
-
-City
